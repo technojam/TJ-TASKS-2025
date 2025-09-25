@@ -3,6 +3,8 @@
 Welcome to the **UI/UX track!**  
 Unlike those intimidating screens filled with code, this track is all about **creativity, problem-solving, and crafting smooth user experiences.**  
 
+<img width="509" height="355" alt="image" src="https://github.com/user-attachments/assets/00d2be35-83d7-4554-9359-27ee889bcf4b" />
+
 Design isn’t just about aesthetics—it’s about **thinking, empathy, and functionality.** Through these tasks, you’ll strengthen your design mindset and sharpen your creativity as a budding UI/UX designer.  
 
 ---
