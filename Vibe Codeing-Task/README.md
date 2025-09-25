@@ -94,9 +94,9 @@ Here’s a curated list of **Vibe Coding resources** (AI-assisted, prompt-driven
 
 ## 🎥 Verified Vibe Coding / AI-Coding & Prompt Engineering Videos  
 
-- [A Complete Guide to Vercel’s AI SDK](https://www.youtube.com/watch?v=mojZpktAiYQ) — deep dive into Vercel’s AI SDK tutorial. :contentReference[oaicite:0]{index=0}   
-- [Coding with ChatGPT-5 — App Development with AI](https://www.youtube.com/watch?v=7X8Nv1CUcec) — shows building apps end-to-end with AI guidance. :contentReference[oaicite:3]{index=3}  
-- [Pair Programming with the ChatGPT AI](https://www.youtube.com/watch?v=GxJKuINwPSw) — seeing how AI works as a coding partner. :contentReference[oaicite:4]{index=4}  
+- [A Complete Guide to Vercel’s AI SDK](https://www.youtube.com/watch?v=mojZpktAiYQ) — deep dive into Vercel’s AI SDK tutorial.    
+- [Coding with ChatGPT-5 — App Development with AI](https://www.youtube.com/watch?v=7X8Nv1CUcec) — shows building apps end-to-end with AI guidance. 
+- [Pair Programming with the ChatGPT AI](https://www.youtube.com/watch?v=GxJKuINwPSw) — seeing how AI works as a coding partner.   
 
 ---
 
@@ -125,14 +125,14 @@ Here’s a curated list of **Vibe Coding resources** (AI-assisted, prompt-driven
 
 ## 🛠️ Sample Vibe / Agent / AI-SDK Projects on GitHub
 
-- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) — a curated list of tools, plugins, extensions, and resources related to vibe coding. :contentReference[oaicite:0]{index=0}  
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) — open source AI “vibe coding” platform built on Cloudflare’s developer ecosystem. :contentReference[oaicite:1]{index=1}  
-- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) — demo of real-time agents using OpenAI’s agents & realtime API. :contentReference[oaicite:2]{index=2}  
-- [openai/openai-agents-python/examples](https://openai.github.io/openai-agents-python/examples/) — sample agent patterns (mcp, handoffs, realtime) using the OpenAI Agents SDK. :contentReference[oaicite:3]{index=3}  
-- [jpool09/AI-SDK-Agent-Example](https://github.com/jpool09/AI-SDK-Agent-Example) — simple Next.js + Vercel AI SDK example integrating OpenAI, streaming, custom tools. :contentReference[oaicite:4]{index=4}  
-- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) — type of “vibe coding” backend agent: it generates backend code from natural language description. :contentReference[oaicite:5]{index=5}  
-- [openai/openai-voice-agent-sdk-sample](https://github.com/openai/openai-voice-agent-sdk-sample) — sample voice agent with backend (FastAPI) + frontend (Next.js), real-time, streaming, tool calls. :contentReference[oaicite:6]{index=6}  
-- [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) — SDK for building modern AI agents with support for multi-agent, MCP, tools, workflows. :contentReference[oaicite:7]{index=7}  
+- [filipecalegario/awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) — a curated list of tools, plugins, extensions, and resources related to vibe coding. 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) — open source AI “vibe coding” platform built on Cloudflare’s developer ecosystem. 
+- [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) — demo of real-time agents using OpenAI’s agents & realtime API.  
+- [openai/openai-agents-python/examples](https://openai.github.io/openai-agents-python/examples/) — sample agent patterns (mcp, handoffs, realtime) using the OpenAI Agents SDK.  
+- [jpool09/AI-SDK-Agent-Example](https://github.com/jpool09/AI-SDK-Agent-Example) — simple Next.js + Vercel AI SDK example integrating OpenAI, streaming, custom tools.   
+- [wrtnlabs/autobe](https://github.com/wrtnlabs/autobe) — type of “vibe coding” backend agent: it generates backend code from natural language description.   
+- [openai/openai-voice-agent-sdk-sample](https://github.com/openai/openai-voice-agent-sdk-sample) — sample voice agent with backend (FastAPI) + frontend (Next.js), real-time, streaming, tool calls.  
+- [strands-agents/sdk-python](https://github.com/strands-agents/sdk-python) — SDK for building modern AI agents with support for multi-agent, MCP, tools, workflows. 
 
 
 
