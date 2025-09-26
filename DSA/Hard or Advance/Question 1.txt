@@ -1,0 +1,38 @@
+You have 101000 tiles, each with the number 2 written on them.
+
+You can perform the following operation as many times as you like:
+
+    • Choose two existing tiles both with the same value X, and combine them to form a single tile with
+        value 2X. This operation gives you a score of 2X.
+    • In particular, combining two tiles with 4096 written on them gives a single tile with value 8192.
+        This operation gives you a score of 8192.
+
+Given an integer Y , count the number of distinct final configurations of tiles possible such that your score is exactly Y . Two configurations are considered distinct if, for some integer X, the number of tiles with X written on them is different between both configurations - in particular, the sequence of operations usedto reach the final configuration doesn’t matter at all.
+
+The answer can be large, so compute it modulo 998244353.
+
+
+Input:
+The first line contains an integer t (1 ≤ t ≤ 106), the number of testcases. The second line contains tspace-separated integers
+Each denoting a value of Y (1 ≤ Y ≤ 4 · 106) that needs to be solved for.
+
+Output: 
+For each testcase, output a single integer on a new line: the number of distinct configurations with scoreY , modulo 998244353.
+
+Example:
+
+input:
+
+4
+2 4 8 32
+
+Output:
+0
+1
+1
+3
+
+Note:
+In the first testcase, we can prove that there is no configuration with total score 2.
+
+In the third test case, let’s do the following operation 2 times. Take two 2 and combine them to make a 4.

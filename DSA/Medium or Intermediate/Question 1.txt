@@ -1,0 +1,33 @@
+You are given an integer n.
+
+Let s denote the string obtained by concatenating the binary representations of all the integers from 1 to
+n in order, without leading zeros.
+
+For example, if n = 6, then s = 11011100101110.
+
+Compute s(10) mod 998244353, where s(10) is the integer represented by viewing s in base 10, i.e, indecimal.
+
+Input:
+The first line contains t (1 ≤ t ≤ 1000), the number of testcases. The second line contains t space-separated integers, each being a value of n (1 ≤ n ≤ 1015).
+
+Output:
+For each testcase, output one integer: the value of s(10) mod 998244353.
+
+In layman’s terms, the problem statement asks you to create a long string that is a binary representation concatenation of numbers and then read it as a decimal string and print it modulo 998244353.
+
+Example:
+
+Input:
+2
+3 7
+
+Output:
+11011
+703895966
+
+Note:
+For n = 3 the binary string is s = 11011, now if we assume its a decimal string and then print it modulo
+998244353, 11011 mod 998244353 = 11011
+
+For n = 7 the binary string is s = 11011100101110111, now if we assume its a decimal string and then
+print it modulo 998244353, 11011100101110111 mod 998244353 = 703895966
