@@ -1,7 +1,8 @@
 # Technojam Tasks 2025
 This Repository consists of Tasks of all the Tracks that will help you to begin your journey in the programming world and move one step ahead to be part of Team TechnoJam.
 
-##### Last Date for tasks submission - 10th October.
+##### Last Date for tasks submission - 15th October.
+#### Submission Link: https://forms.gle/gZatqJ41fCscougx9
 
 #### **Tasks Submission guide:**
 
