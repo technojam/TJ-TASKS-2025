@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Simple CS Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="quiz-page">
+        <h1>Computer Science Quiz</h1>
+
+            <section class="question" id="q1">
+                <h2>1. Which language is considered a high-level programming language?</h2>
+                <div class="options">
+                    <button data-correct="false">Binary</button>
+                    <button data-correct="false">Assembly</button>
+                    <button data-correct="true">Python</button>
+                    <button data-correct="false">Machine code</button>
+                </div>
+            </section>
+
+            <section class="question" id="q2">
+                <h2>2. What does 'CPU' stand for?</h2>
+                <div class="options">
+                    <button data-correct="false">Central Process Unit</button>
+                    <button data-correct="true">Central Processing Unit</button>
+                    <button data-correct="false">Computer Personal Unit</button>
+                    <button data-correct="false">Control Processing Unit</button>
+                </div>
+            </section>
+
+            <section class="question" id="q3">
+                <h2>3. Which data structure uses FIFO ordering?</h2>
+                <div class="options">
+                    <button data-correct="false">Stack</button>
+                    <button data-correct="true">Queue</button>
+                    <button data-correct="false">Tree</button>
+                    <button data-correct="false">Graph</button>
+                </div>
+            </section>
+
+            <section class="question" id="q4">
+                <h2>4. Which of the following is not an interpreted language?</h2>
+                <div class="options">
+                    <button data-correct="false">JavaScript</button>
+                    <button data-correct="false">Python</button>
+                    <button data-correct="true">C++</button>
+                    <button data-correct="false">Ruby</button>
+                </div>
+            </section>
+
+            <section class="question" id="q5">
+                <h2>5. What does 'HTML' stand for?</h2>
+                <div class="options">
+                    <button data-correct="true">HyperText Markup Language</button>
+                    <button data-correct="false">HighText Machine Language</button>
+                    <button data-correct="false">Hyperlinks and Text Markup Language</button>
+                    <button data-correct="false">Home Tool Markup Language</button>
+                </div>
+            </section>
+
+            <div class="quiz-actions">
+                <button id="submit-quiz" class="btn start-btn">Submit</button>
+                <button id="restart-quiz" class="btn" style="margin-left:8px;">Restart</button>
+                <div id="result" class="result" aria-live="polite" style="margin-top:12px;"></div>
+            </div>
+
+        </main>
+        <script src="quiz-page.js" defer></script>
+    </body>
+    </html>
